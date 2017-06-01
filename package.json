@@ -1,0 +1,8 @@
+{
+  "name": "MDL-59103",
+  "private": true,
+  "description": "NPM upgrade testcase MDL-59103",
+  "devDependencies": {
+    "glob": "7.1.2"
+  }
+}
